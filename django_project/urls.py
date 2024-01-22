@@ -1,3 +1,8 @@
+"""
+Jordyn Kuhn
+CIS 218 Web Application Programming
+1-22-2023
+"""
 """django_project URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:

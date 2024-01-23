@@ -1,7 +1,7 @@
 # Assignment 1 - Static Web Site In Django
 
 ## Author
-
+Jordyn Kuhn
 
 
 ## Description
@@ -104,9 +104,10 @@ This means having lines similar to the following in your base template.
 | **Extra Credit** Full Heroku Deployment  |   **5**|
 
 ## Outside Resources Used
-
+N/A
 
 
 ## Known Problems, Issues, And/Or Errors in the Program
-
+Does not have test functionality yet.
+Is not prepared for Heroku.
 
